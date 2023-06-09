@@ -1,7 +1,7 @@
 accounts:
     # .damai.cn中的cookie完整字符串
     - cookie: "cna=7o3RGY94hgQCAXQYZy8NX/F7; xlly_s=1; _samesite_flag_=true; cookie2=16363556281b6907263bfe07e7b5f9dc; t=9dc48648e75d3fc434e9523136e5fd84; _tb_token_=5787de7e5aa51; _hvn_login=18; munb=2212606572029; csg=808cc656; damai.cn_nickName=%E9%BA%A6%E5%AD%902hTg7; damai.cn_user=1aBUL7yAVj+7nHX9uyD64eCPBCpmC6iev5wjFXbF/KmaUoWdw6hsGEELtEKT+3rWGxb2+Rjuqig=; damai.cn_user_new=1aBUL7yAVj%2B7nHX9uyD64eCPBCpmC6iev5wjFXbF%2FKmaUoWdw6hsGEELtEKT%2B3rWGxb2%2BRjuqig%3D; h5token=72e6e637ed6f434ab60033c536950309_1_1; damai_cn_user=1aBUL7yAVj%2B7nHX9uyD64eCPBCpmC6iev5wjFXbF%2FKmaUoWdw6hsGEELtEKT%2B3rWGxb2%2BRjuqig%3D; loginkey=72e6e637ed6f434ab60033c536950309_1_1; user_id=177243705; _m_h5_tk=6062f66f259c8bad2b0a6f1923950af8_1686304366954; _m_h5_tk_enc=1d01330f048555d44344d879d29221c3; tfstk=cYBRByjrYr4k2dzH3LFmYwABNtUGZMPv8bTipThHrpUZ-eMdi56GB103VhTwyoC..; l=fBxOftBqNKp95fZ1BOfwPurza77OSIRAguPzaNbMi9fPOY1B5jTAW114E7Y6C3GVFsD6R3l39SNMBeYBq3K-nxvTVJiQblkmnmOk-Wf..; isg=BJWVww4IXVZWLHmqU316OFsopJFPkkmknv3AzBc6UIxabrdg3-ELfSBoPFRY7mFc"
-      remark: 账号1
+      remark: whz
       # 抢票轮训间隔, 单位毫秒
       interval: 30
 
