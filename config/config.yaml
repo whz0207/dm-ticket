@@ -10,11 +10,11 @@ accounts:
 
       ticket:
         # 需要抢购的门票ID, 门票详情页URL中的itemId.如:https://m.damai.cn/damai/detail/item.html?utm=&itemId=710947802955
-        id: "719540964775"
+        id: "718335834447"
         # 需要抢购的门票数量
-        num: 1
+        num: 2
         # 需要抢购的场次序号.
-        sessions: 1
+        sessions: 2
         # 需要抢购的票档序号
         grade: 3
 
